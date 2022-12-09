@@ -1,4 +1,4 @@
-# works2
+# 국내 개발자 컨퍼런스 자료 모음
 [![RSS](https://img.shields.io/badge/rss-F88900?logo=rss&logoColor=white)](https://github.com/hibuz/dev-conf-replay/commits/main.atom)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhibuz/dev-conf-replay%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Links](https://github.com/hibuz/dev-conf-replay/actions/workflows/check_links.yml/badge.svg)](https://github.com/hibuz/dev-conf-replay/actions/workflows/check_links.yml)
